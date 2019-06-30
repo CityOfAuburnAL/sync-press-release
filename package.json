@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CityOfAuburnAL/sync-press-release/issues"
   },
-  "homepage": "https://github.com/CityOfAuburnAL/sync-press-release#readme"
+  "homepage": "https://github.com/CityOfAuburnAL/sync-press-release#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
