@@ -1,0 +1,19 @@
+{
+  "name": "press-release-sync",
+  "version": "1.0.0",
+  "description": "Syncs press release widgets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CityOfAuburnAL/sync-press-release.git"
+  },
+  "author": "Griffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CityOfAuburnAL/sync-press-release/issues"
+  },
+  "homepage": "https://github.com/CityOfAuburnAL/sync-press-release#readme"
+}
